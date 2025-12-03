@@ -1,8 +1,8 @@
-h1{color:rgb(4, 4, 88);font-size:35px}
-p{color:rgb(76, 23, 31);font-size:20px;text-align: center;}
+h1{color:rgb(4, 4, 88);font-size:3vw}
+p{color:rgb(76, 23, 31);font-size:1.5vw;text-align: center;}
 body{background-color:#fcf3fa;}
-h2{color:rgb(4, 4, 88);font-size:35px}
-h3{color:rgb(4, 4, 88);font-size:35px}
-ul{color: red; font-size:14px;background-color:white}
-ol{color: red; font-size:14px;background-color:white}
-header{font-size:20px;background-color:lavender}
+h2{color:rgb(4, 4, 88);font-size:1.5vw}
+h3{color:rgb(4, 4, 88);font-size:1.5vw}
+ul{color: red; font-size:1.2vw;background-color:white}
+ol{color: red; font-size:1.2vw;background-color:white}
+header{font-size:1.5vw;background-color:lavender}
